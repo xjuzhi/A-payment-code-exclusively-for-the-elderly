@@ -32,4 +32,4 @@ vue3
 
 2.当手机安装某些手机会出现以下情况，忽略即可，不会影响使用
 
-![](D:\核酸\A-payment-code-exclusively-for-the-elderly\README.assets\微信图片_20240526172337.jpg)
+![微信图片_20240526172337.jpg](D:\核酸\A-payment-code-exclusively-for-the-elderly\README.assets\微信图片_20240526172337.jpg)
