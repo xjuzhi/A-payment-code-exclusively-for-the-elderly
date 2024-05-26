@@ -16,3 +16,18 @@ uni-app
 vue3
 ```
 
+## 演示
+
+微信![微信图片_20240526172333](D:\核酸\A-payment-code-exclusively-for-the-elderly\README.assets\微信图片_20240526172333.jpg)
+
+支付宝
+
+![微信图片_20240526172308](D:\核酸\A-payment-code-exclusively-for-the-elderly\README.assets\微信图片_20240526172308.jpg)
+
+## 存在bug
+
+1.可能点击按钮没有反应，多点击几次即可
+
+2.当手机安装某些手机会出现以下情况，忽略即可，不会影响使用
+
+![](D:\核酸\A-payment-code-exclusively-for-the-elderly\README.assets\微信图片_20240526172337.jpg)
